@@ -36,4 +36,4 @@ I'm a student and a researcher with a passion for exploring the convergence of h
 Feel free to reach out for collaborations or just a chat. You can also find me on LinkedIn (https://www.linkedin.com/in/sarveshtandel/).
 
 ---
-> "Your favorite quote or personal motto."
+> "Designing with oceanic flair and seasoning life"
