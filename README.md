@@ -37,4 +37,3 @@ Feel free to reach out for collaborations or just a chat. You can also find me o
 
 ---
 > "Your favorite quote or personal motto."
-
