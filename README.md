@@ -30,10 +30,7 @@ I'm a student and a researcher with a passion for exploring the convergence of h
 - **LinkedIn:** (https://www.linkedin.com/in/sarveshtandel/)
 
 ## 🎨 Projects
-- **ECLIPSE pH:** Utilizing spectrophotometric pH measurement for precision, the sensor provides real-time seawater pH monitoring, ideal for both profiling and extended marine deployments.
-
-## 💬 Let's Connect!
-Feel free to reach out for collaborations or just a chat. You can also find me on LinkedIn (https://www.linkedin.com/in/sarveshtandel/).
+- **ECLIPSE pH:** Utilizing spectrophotometric pH measurement for precision, the sensor provides real-time seawater pH monitoring, ideal for both profiling and extended marine deployments
 
 ---
 > "Designing with oceanic flair and seasoning life"
