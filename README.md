@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SarveshKT/SarveshKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Hi there, I'm Sarvesh Tandel! 👋
 
 ## 🚀 About Me
-I'm a student and a researcher with a passion for exploring the convergence of hardware design, embedded systems, and electrical engineering, inspired by the intricacies of the ocean to innovate and solve complex challenges in technology.
+I'm a student and a researcher with a passion for exploring the convergence of hardware design, embedded systems, and electrical engineering, inspired by the intricacies of the ocean to innovate and solve complex challenges in technology
 
 ## 📚 Education
 - Master's Degree in Electrical and Computer Engineering, Northeastern University, 2024
@@ -30,13 +27,13 @@ I'm a student and a researcher with a passion for exploring the convergence of h
 - **Tools & Technologies:** Git, VS code, PlatformIO
 
 ## 🌐 Social Links
-- **LinkedIn:** Your LinkedIn(https://www.linkedin.com/in/sarveshtandel/)
+- **LinkedIn:** (https://www.linkedin.com/in/sarveshtandel/)
 
 ## 🎨 Projects
-- ** ECLIPSE pH**
+- **ECLIPSE pH:** Utilizing spectrophotometric pH measurement for precision, the sensor provides real-time seawater pH monitoring, ideal for both profiling and extended marine deployments.
 
 ## 💬 Let's Connect!
-Feel free to reach out for collaborations or just a chat. You can also find me on LinkedIn(https://www.linkedin.com/in/sarveshtandel/).
+Feel free to reach out for collaborations or just a chat. You can also find me on LinkedIn (https://www.linkedin.com/in/sarveshtandel/).
 
 ---
 > "Your favorite quote or personal motto."
