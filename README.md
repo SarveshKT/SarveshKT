@@ -31,6 +31,7 @@ I'm a student and a researcher with a passion for exploring the convergence of h
 
 ## 🎨 Projects
 - **ECLIPSE pH:** Utilizing spectrophotometric pH measurement for precision, the sensor provides real-time seawater pH monitoring, ideal for both profiling and extended marine deployments
+- **Salinity Sensor System:** The Salinity Sensor System project is an innovative endeavor aimed at developing a high-precision, real-time monitoring tool designed to accurately measure the salinity levels in various bodies of water, enhancing water quality management and supporting ecological research.
 
 ---
 > "Designing with oceanic flair and seasoning life"
